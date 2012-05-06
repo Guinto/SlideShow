@@ -7,7 +7,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class SlideShow {
 
 	public static void main(String[] args) {
-		new SlideShow();
+		//new SlideShow();
+		new Database();
 	}
 	
 	private ArrayList<Page> pages = new ArrayList<Page>();
